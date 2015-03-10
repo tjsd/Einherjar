@@ -1,0 +1,97 @@
+AgriCraft
+Another One Bites The Dust
+Applied Energistics 2
+ArmorStatusHUD
+Aroma1997Core
+AromaBackup
+asielib
+BD Lib
+BiblioCraft
+BiblioWoods Biomes O`Plenty Edition
+BiblioWoods Forestry Edition
+Big Reactors
+Binnie Core
+Biomes O` Plenty
+Blood Magic: Alchemical Wizardry
+Botania
+BuildCraft
+BuildCraft Compat
+Carpenter`s Blocks
+Chisel 2
+CodeChicken Core
+CoFH Core
+CoFHLib
+ComputerCraft
+Dense Ores
+Dimensional Anchors
+1.0.0e
+Ender IO
+EnderStorage
+ExtraCells
+Extra Utilities
+FastCraft
+Finndus Fillies
+Forbidden Magic
+Forestry for Minecraft
+Funky Locomotion
+GenDustry
+Iguana Tinker Tweaks
+Immibis Core
+Immibis`s Microblocks
+InPureCore
+Inventory Tweaks
+Iron Chest
+JABBA
+Magic Bees
+Malisis` Core
+Malisis` Doors
+Mantle
+Mekanism
+MekanismGenerators
+MekanismTools
+MineFactory Reloaded
+MmmMmmMmmMmm
+MobiusCore
+Morpheus
+Natura
+NEI Addons
+NEI Integration
+Nether Ores
+Not Enough Items
+NotEnoughKEys
+OpenBlocks
+OpenComputers
+OpenMods
+OpenPeripheralCore
+Pam`s HarvestCraft
+Progressive Automation
+Railcraft
+Random Things
+RedLogic
+Redstone Arsenal
+Refined Relocation
+RFTools
+Runic Dungeons
+StevesAddons
+Steve`s Carts 2
+Steve`s Factory Manager
+Storage Drawers
+TC Node Tracker
+Tinkers` Construct
+Thaumcraft
+Thaumcraft NEI Plugin
+Thaumic Energistics
+Thaumic Tinkerer
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+TiC Tooltips
+Translocator
+ttCore
+AtomicStryker Update Check Mod
+Waila
+WAILA Plugins
+Wawla
+Ztones
+Damage Indicators
+Baubles
