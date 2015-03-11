@@ -1,11 +1,16 @@
 AgriCraft
 Another One Bites The Dust
+AppleCore
 Applied Energistics 2
 ArmorStatusHUD
 Aroma1997Core
 AromaBackup
 asielib
+Automagy
+AutoPackager
+Backpack
 BD Lib
+Better Title Screen
 BiblioCraft
 BiblioWoods Biomes O`Plenty Edition
 BiblioWoods Forestry Edition
@@ -14,30 +19,41 @@ Binnie Core
 Biomes O` Plenty
 Blood Magic: Alchemical Wizardry
 Botania
-BuildCraft
-BuildCraft Compat
 Carpenter`s Blocks
 Chisel 2
 CodeChicken Core
 CoFH Core
 CoFHLib
 ComputerCraft
+Decocraft
 Dense Ores
 Dimensional Anchors
 1.0.0e
+Enchiridion
 Ender IO
 EnderStorage
+Ender Zoo
+EnhancedPortals
 ExtraCells
+ExtraTiC
 Extra Utilities
 FastCraft
-Finndus Fillies
 Forbidden Magic
 Forestry for Minecraft
 Funky Locomotion
 GenDustry
+Growthcraft Apples
+Growthcraft Bamboo
+Growthcraft Bees
+Growthcraft Cellar
+Growthcraft
+Growthcraft Fishtrap
+Growthcraft Grapes
+Growthcraft Hops
+Growthcraft Rice
+Hunger Overhaul
 Iguana Tinker Tweaks
 Immibis Core
-Immibis`s Microblocks
 InPureCore
 Inventory Tweaks
 Iron Chest
@@ -46,9 +62,12 @@ Magic Bees
 Malisis` Core
 Malisis` Doors
 Mantle
+Mariculture
 Mekanism
 MekanismGenerators
-MekanismTools
+Metallurgy 4
+Metallurgy Core
+5.0.5.385
 MineFactory Reloaded
 MmmMmmMmmMmm
 MobiusCore
@@ -62,9 +81,15 @@ NotEnoughKEys
 OpenBlocks
 OpenComputers
 OpenMods
+Open Modular Turrets
 OpenPeripheralCore
 Pam`s HarvestCraft
 Progressive Automation
+ProjectRed
+ProjectRed-Compatibility
+ProjectRed-Transmission
+ProjectRed-Illumination
+ProjectRed-Exploration
 Railcraft
 Random Things
 RedLogic
@@ -72,9 +97,11 @@ Redstone Arsenal
 Refined Relocation
 RFTools
 Runic Dungeons
+Special Mobs
 StevesAddons
 Steve`s Carts 2
 Steve`s Factory Manager
+Steve's Workshop
 Storage Drawers
 TC Node Tracker
 Tinkers` Construct
@@ -85,6 +112,7 @@ Thaumic Tinkerer
 Thermal Dynamics
 Thermal Expansion
 Thermal Foundation
+Thermal Smeltery
 TiC Tooltips
 Translocator
 ttCore
@@ -95,3 +123,5 @@ Wawla
 Ztones
 Damage Indicators
 Baubles
+MrTJPCore
+bspkrsCore
