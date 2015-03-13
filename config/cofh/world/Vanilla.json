@@ -152,5 +152,24 @@
         "dimensions": [
             -1
         ]
-    }
+    },
+    "clay": {
+        "template": "uniform",
+        "block": {
+            "name": "minecraft:clay",
+            "metadata": 0
+        },
+        "clusterSize": 13,
+        "numClusters": 7,
+        "minHeight": 5,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }	
 }
